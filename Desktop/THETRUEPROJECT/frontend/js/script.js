@@ -44,8 +44,8 @@ buttonSearch.addEventListener("click",()=>{
                         let dateOfTheTrip = new Date(data.data[i].date).getTime()
 
                         let dateOfTheDay = new Date().getTime()
-                        if(dateOfTheTrip>dateOfTheDay){
-                            
+
+                        
                             console.log(data.data.length)
                         
                             // console.log(dateOfTheTrip)
@@ -76,16 +76,13 @@ buttonSearch.addEventListener("click",()=>{
                                  if(data.result){
                                       alert("you have booked successfully")
                                  }
-                            })
-
-                        
-                            
+                            }) 
 
                         })
                     
                     
                 }
-                        }
+                       
                         }
 
                 }else{
@@ -110,39 +107,3 @@ buttonSearch.addEventListener("click",()=>{
 
 
 })
-
-    
-
-// function fetching(){
-//     fetch("http://localhost:3000/trips/getTrips").then(res=>res.json()).then(data=>{
-//         console.log(data.data)
-//         for(let i = 0;i<data.data.length;i++){
-//             let departure = data.data[i].departure
-//             let arrival = data.data[i].arrival
-//             let date = data.data[i].date
-//             let price = data.data[i].price
-//             let hourFromDate = data.data[i].date
-//             let hourFrom = hourFromDate.split("T")
-//             let hour = hourFrom[1]  
-//             let hourAndMinute = hour.split(":")
-//             let hourOnly = hourAndMinute[0]
-//             let minuteOnly = hourAndMinute[1]
-//             let hourAndMinuteOnly = hourOnly+":"+minuteOnly
-//             let getTimeFrom  = new Date(hourAndMinuteOnly).getTime()
-//             let dateOfTheTrip = new Date(data.data[i].date).getTime()
-
-//             let dateOfTheDay = new Date().getTime()
-//             if(dateOfTheTrip>dateOfTheDay){
-//                 console.log(dateOfTheTrip)
-//                 console.log(dateOfTheDay)
-
-//             document.querySelector(".list-group").innerHTML+=`
-//             <li class="list-group-item animate__animated animate__fadeInLeft">${departure}>${arrival}   ${hourAndMinuteOnly}   `+`  ${price}€ <span class='book' data-id="${data.data[i]._id}">Book </span></li>`
-//             }
-//         }
-//     })
-// }
-
-
-
-

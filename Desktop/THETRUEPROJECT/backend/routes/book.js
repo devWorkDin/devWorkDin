@@ -7,8 +7,15 @@ let arrayTrips =  [];
 
 
 router.post('/showTrip', (req, res)=> {
-        res.json("you booked this trip")
-        arrayTrips.push(req.body.idTrip)        
+        if(arrayTrips.includes(req.body.idTrip)){
+                res.json("you already booked this trip")
+              }
+              else{
+                res.json("you booked this trip")
+                arrayTrips.push(req.body.idTrip)
+                console.log(arrayTrips)
+              }
+           
      })
     
 

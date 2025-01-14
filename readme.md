@@ -44,9 +44,9 @@ I am currently working on several personal and client projects, including:
 ---
 
 ## 📫 Contact Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/oussamadabachil](https://www.linkedin.com/in/oussamadabachil)
-- **Twitter:** [@oussamadabachil](https://twitter.com/oussamadabachil)
+- **Email:** oussamadabachilpro@gmail.com
+- **LinkedIn:** [linkedin.com/in/oussamadabachil](https://www.linkedin.com/in/oussama-dabachil-7149541b1/)
+- **Twitter:** [@oussamadabachil](https://x.com/ouhcamarrive?s=21)
 
 Feel free to reach out for collaborations, freelance work, or just to chat about tech!
 

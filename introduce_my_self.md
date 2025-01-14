@@ -17,15 +17,15 @@ Check out my portfolio website to explore my projects and learn more about my wo
 
 ## 🚀 Featured Projects
 
-### [Project 1: (Project Name)](Link to project)
-- **Description:** Brief description of the project, highlighting the key features and technologies used.
-- **Tech stack:** Next.js, React, CSS, Firebase
-- **Key Features:** Responsive design, user authentication, real-time updates.
+### [FastCar - Chauffeur VTC Website](Link to project)
+- **Description:** A responsive website developed for FastCar, a VTC (chauffeur) service. The site includes an easy-to-use booking system and multilingual support.
+- **Tech stack:** Next.js, Framer, Tailwind CSS, i18n, MongoDB
+- **Key Features:** Multi-language support, responsive design, booking system integration.
 
-### [Project 2: (Project Name)](Link to project)
-- **Description:** Another project with a focus on a unique feature or problem solved.
-- **Tech stack:** React Native, Expo, MongoDB
-- **Key Features:** Mobile-first design, smooth navigation, API integration.
+### [Sunrise - Digital Communication Agency Website](Link to project)
+- **Description:** A website built for Sunrise, a digital communication agency. The project involved translating their branding into a professional WordPress site.
+- **Tech stack:** WordPress, Figma
+- **Key Features:** Custom design based on Figma, easy content management with WordPress.
 
 ---
 

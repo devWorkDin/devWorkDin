@@ -17,12 +17,12 @@ Check out my portfolio website to explore my projects and learn more about my wo
 
 ## 🚀 Featured Projects
 
-### [FastCar - Chauffeur VTC Website](Link to project)
+### [FastCar - Chauffeur VTC Website](https://www.agence-fastcar.fr/fr)
 - **Description:** A responsive website developed for FastCar, a VTC (chauffeur) service. The site includes an easy-to-use booking system and multilingual support.
 - **Tech stack:** Next.js, Framer, Tailwind CSS, i18n, MongoDB
 - **Key Features:** Multi-language support, responsive design, booking system integration.
 
-### [Sunrise - Digital Communication Agency Website](Link to project)
+### [Sunrise - Digital Communication Agency Website](https://agencysunrise.fr/)
 - **Description:** A website built for Sunrise, a digital communication agency. The project involved translating their branding into a professional WordPress site.
 - **Tech stack:** WordPress, Figma
 - **Key Features:** Custom design based on Figma, easy content management with WordPress.

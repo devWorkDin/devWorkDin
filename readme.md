@@ -1,4 +1,4 @@
-# Oussama DabaChil - Web & Mobile Developer
+# Oussama Dabachil - Web & Mobile Developer
 
 Welcome to my GitHub profile! I'm Oussama, a passionate web and mobile developer specializing in **Next.js**, **React Native**, and **Expo**. I build responsive, user-friendly, and high-performance applications and websites, with a focus on modern technologies and clean code.
 
